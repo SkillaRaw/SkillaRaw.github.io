@@ -2873,7 +2873,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("http://surfbang.com/wp-content/uploads/2012/04/surfing-desktop-wallpaper-eric-snortum-peter-taras-surfing-magazine-1024x682.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
